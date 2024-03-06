@@ -200,7 +200,7 @@
     <string name="draft_biergarten00_title">啤酒屋</string>
 
     <string name="disaster_flooding_cmdtext">下大雨吧！</string>
-    <string name="disaster_flooding_text">水漫金山!</string>
+    <string name="disaster_flooding_text">倾盆大雨!!!</string>
     <string name="disaster_flooding_title">洪水</string>
     <string name="disaster_illness_cmdtext">散播可怕的病毒</string>
     <string name="disaster_illness_text">选定特定建筑，开始散播瘟疫。\n您将需要自己派遣救护车！</string>
@@ -281,7 +281,7 @@
     <string name="settings_fancybg">美丽背景</string>
     <string name="population_unit">%1$,d</string>
     <string name="influence_pollution_title">污染</string>
-    <string name="influence_pollution_text">没有人会喜欢在污染中居住</string>
+    <string name="influence_pollution_text">没人会喜欢在污染中住下去的。</string>
     <string name="influence_culture_title">文化</string>
     <string name="happiness_road">道路</string>
     <string name="happiness_park">公园</string>
@@ -498,7 +498,7 @@
     <string name="createcity_sizebigbig">很大</string>
     <string name="createcity_sizebigbigbig">特别大</string>
     <string name="createcity_sizemiddle">适中</string>
-    <string name="dialog_hugesize_text">大型地图目前处于测试阶段且对硬件要求很高，你确定吗？</string>
+    <string name="dialog_hugesize_text">大型地图目前处于测试阶段且对硬件要求较高，你确定吗？</string>
     <string name="dialog_hugesize_title">大型地图</string>
     <string name="dialog_invalidcityname_text">请换一个名字，城市名不能为空哦</string>
     <string name="dialog_screenshot_text">截图已保存在 %1$s</string>
@@ -557,7 +557,7 @@
     <string name="settings_shadertype_normal">经典</string>
     <string name="settings_shadertype_fancy">抗锯齿</string>
     <string name="settings_shader">画面</string>
-    <string name="settings_rightsidebar">边栏右置</string>
+    <string name="settings_rightsidebar">侧边栏右置</string>
     <string name="settings_orientationlandscape">横屏</string>
     <string name="settings_preserveedges">保留边缘</string>
     <string name="influence_culture_text">居民喜欢各种文化</string>
@@ -597,7 +597,7 @@
     <string name="settings_resolutionbigbig">很大</string>
     <string name="settings_relaxed_line_tool">简易线条工具</string>
     <string name="settings_orientation">屏幕方向</string>
-    <string name="settings_maxzoomout">增大缩小范围</string>
+    <string name="settings_maxzoomout">更大缩小范围</string>
     <string name="settings_energysaving">省电模式</string>
     <string name="settings_drawwatersparkle">水光效果</string>
     <string name="settings_drawsmoke">烟</string>
@@ -642,7 +642,7 @@
     <string name="ci_loan_loanlist">所得贷款 (总 %1$s在%2$,d/%3$,d笔贷款):</string>
     <string name="draft_marker_ticketmarker_text">显示票券满意度。</string>
     <string name="draft_marker_ticketmarker_title">车票</string>
-    <string name="draft_railwaystation00_text">火车车站</string>
+    <string name="draft_railwaystation00_text">火车站</string>
     <string name="draft_rail00_text">火车的铁路</string>
     <string name="influence_police_text">警察会让犯罪率降低。</string>
     <string name="influence_radioactive_text">会对人类和环境造成威胁。</string>
@@ -714,10 +714,10 @@
     <string name="waiting_copycity">复制城市</string>
     <string name="about_homepage">主页</string>
     <string name="ci_general_authorname">市长：%1$s</string>
-    <string name="dialog_renameauthor_text">请输入新的市长</string>
-    <string name="dialog_renameauthor_title">重命名市长</string>
+    <string name="dialog_renameauthor_text">请输入新的市长名字</string>
+    <string name="dialog_renameauthor_title">重命名市长名字</string>
     <string name="game_cityauthor">(%1$s)</string>
-    <string name="oome_text">我们很抱歉，但是你的设备上似乎没有足够的空间给西奥小镇了</string>
+    <string name="oome_text">我们很抱歉，但是你的设备没有留给西奥小镇的空间了</string>
     <string name="oome_title">内部存储空间不足</string>
     <string name="notify_crime">这里发生了犯罪，你需要建立更多的公安局，或者提高居民的满意度。</string>
     <string name="tutorial_buildbridge_a">为了使交通更加流畅，我们需要强化主街。请为此选择 乡下公路。</string>
@@ -773,7 +773,7 @@
     <string name="about_community">以及其它的社区成员</string>
     <string name="dialog_tosandbox_cmdconvert">确认切换</string>
     <string name="dialog_tosandbox_title">沙盒模式</string>
-    <string name="dialog_tosandbox_text">确定切换至沙盒模式？\n这一步不能撤回！</string>
+    <string name="dialog_tosandbox_text">确定切换至沙盒模式？\n这一步不能撤回！请你深思熟虑后再做选择。</string>
     <string name="requirement_rank">至少达到 %1$s 等级(%2$,d)</string>
     <string name="ca_bodydisposal_text">葬礼：%1$,d/%2$,d</string>
     <string name="ca_wastedisposal_text">垃圾处理：%1$,d/%2$,d</string>
@@ -799,10 +799,10 @@
     <string name="draft_mltry_hq00_title">司令部</string>
     <string name="draft_mltry_baracks00_title">临时木板房</string>
     <string name="draft_firedepartment02_heli00_text">直升机会降落在这里的任何地方。\n\n提高消防局的覆盖力。</string>
-    <string name="settings_reset_text">所有的设置将会丢失，你确定吗？</string>
+    <string name="settings_reset_text">现有设置将会全部丢失，你确定吗？</string>
     <string name="settings_reset_title">重置设置</string>
     <string name="settings_leftsidetraffic">靠左行驶(右舵驾驶)</string>
-    <string name="draft_feature_noads00_text">移除屏幕上端广告。</string>
+    <string name="draft_feature_noads00_text">移除屏幕顶部广告。</string>
     <string name="features_alreadybought">已购买</string>
     <string name="draft_feature_noads00_title">移除广告</string>
     <string name="features_title">附加功能</string>
@@ -887,7 +887,7 @@
     <string name="dialog_unlockcity_title">解锁</string>
     <string name="dialog_unlockcity_text">你想解锁这片区域以便在这里建立一个新的城市吗？</string>
     <string name="region_play">开始</string>
-    <string name="settings_lowcolordepth">低色彩位数</string>
+    <string name="settings_lowcolordepth">低色彩位数(16bit)</string>
     <string name="region_neededinhabitants">这个区域需要至少 %1$,d 居民。</string>
     <string name="draft_devroad02_title">国家高速</string>
     <string name="draft_devroad02_text">由国家所建以及支付的高速路。</string>
@@ -1112,11 +1112,11 @@
     <string name="draft_tool_car_follower00_title">追踪汽车</string>
     <string name="draft_tool_car_follower00_text">随机追踪一辆在城市中行驶的汽车。\n可以通过点击车辆来切换，小心误触</string>
     <string name="draft_mltry_bunker00_title">防空洞</string>
-    <string name="draft_mltry_bunker00_text">住处附近有防空洞会使居民们感到更安心</string>
+    <string name="draft_mltry_bunker00_text">住处附近有防空洞会使居民们感到更放心</string>
     <string name="draft_zoneairport_title">飞机场</string>
     <string name="draft_zoneairport_text">把你的机场建在这个飞机场区域里</string>
-    <string name="draft_decoletters00_title">字母</string>
-    <string name="draft_decoletters00_text">还有%1$s可以装饰的余地</string>
+    <string name="draft_decoletters00_title">字母(A~ B~ C~ D~ E~ F~ G~)</string>
+    <string name="draft_decoletters00_text">还有 %1$s 可以装饰的余地</string>
     <string name="draft_feature_letters00_title">字母装饰</string>
     <string name="draft_feature_letters00_text">一些可以用来装饰的字母</string>
 
@@ -1187,7 +1187,7 @@
     <string name="draft_transformator00_title">变压器</string>
     <string name="draft_transformator00_text">用于转换高低压的变压器，需要被安置在高压线旁边</string>
 
-    <string name="settings_showtouchpoints">显示触点</string>
+    <string name="settings_showtouchpoints">显示触摸点</string>
     <string name="shop_promotion_limited">限时活动</string>
     <string name="shop_promotion_time">仅剩%s</string>
     <string name="airport_lane_rename">重命名</string>
@@ -1200,9 +1200,9 @@
     <string name="airport_virtual_lane">尚未分配</string>
     <string name="airport_lane_no_airplane">尚无飞机</string>
     <string name="topic_lightside">来到光明的一侧吧，我们有——冰激凌！</string>
-    <string name="topic_handmade">每个像素都是辛辛苦苦的点上去的。</string>
+    <string name="topic_handmade">每一个像素点都是辛辛苦苦的点上去的。</string>
     <string name="topic_lunch">午餐意味着关门时间</string>
-    <string name="topic_watching">Lobby 正在看着你。</string>
+    <string name="topic_watching">Lobby 在看着你(指)</string>
     <string name="topic_code">现在有更多的 5% 代码!</string>
     <string name="topic_banana">香蕉</string>
     <string name="topic_finish">让我说完，完这，这这，句，句，讠...(卒)</string>
@@ -1282,7 +1282,7 @@
     <string name="fb_login_cancel">取消</string>
     <string name="toast_seed_copy">种子复制成功</string>
     <string name="toast_recordingid_copy">录制 ID 复制成功</string>
-    <string name="draft_ap_road00_title">滑行道</string>
+    <string name="draft_ap_road00_title">跑道</string>
     <string name="draft_ap_road00_text">使用这条道路用来连接登机口和滑行道</string>
     <string name="requirement_upgrade">需要升级%1$s</string>
     <string name="requirement_upgrade_invert">不可以与%1$s叠加</string>
@@ -1371,7 +1371,7 @@
     <string name="notify_disaster_flooding">大水淹没了城市！</string>
     <string name="notify_disaster_meteorite">天上掉下个大石头！</string>
     <string name="notify_disaster_nuke">这里有一颗核弹爆炸！</string>
-    <string name="notify_disaster_tornado">这不只是刮风了，这是龙卷风！</string>
+    <string name="notify_disaster_tornado">这不只是刮风了，这是龙卷风！！！</string>
     <string name="notify_disaster_ufo">外星人来了！而且好像还要毁灭这里！！！</string>
     <string name="settings_download_static_files">静态文件下载</string>
     <string name="pluginerror_visitforum">去论坛报告</string>
@@ -1412,7 +1412,7 @@
     <string name="control_dismiss">抛弃</string>
     <string name="settings_citytasks">任务</string>
     <string name="dialog_disabletasks_title">禁用任务系统</string>
-    <string name="dialog_disabletasks_text">你似乎正在接二连三的抛弃任务。要不要禁用任务系统？</string>
+    <string name="dialog_disabletasks_text">你似乎正在接二连三的抛弃任务。要不禁用任务系统？</string>
     <string name="control_disable">禁用</string>
     <string name="draft_arcdetriomphe00_title">凯旋门</string>
     <string name="draft_arcdetriomphe00_text">巴黎的凯旋门纪念那些在法国大革命中战斗和牺牲的人。</string>
@@ -1425,7 +1425,7 @@
     <string name="dialog_shortbuildtime_text">观看一段简短的广告，以加速建造时间%s</string>
 
 
-    <string name="settings_saveonappswitch">切换应用时保存</string>
+    <string name="settings_saveonappswitch">打开后台时保存</string>
     <string name="settings_saveforscreenshot">截图时保存</string>
     <string name="draft_eiffeltower00_title">埃菲尔铁塔</string>
     <string name="draft_eiffeltower00_text">巴黎的埃菲尔铁塔是法国最著名的地标。这座塔高324米，于1889年完工。</string>
@@ -1556,9 +1556,9 @@
     <string name="draft_aircraft_boneyard00_text">处理退役飞机的地方。虽然这里很脏，但能带来一些收入。</string>
     <string name="notify_tutorial_reminder_title">是时候开始了</string>
     <string name="notify_tutorial_reminder_text">市长，你忘了你那建设城市的任务吗？</string>
-    <string name="dialog_insufficientspace_title">存储空间有点不够用</string>
-    <string name="dialog_insufficientspace_text">你的设备上没有多少剩余空间了，只剩%,dMB。因为空间不足，你的城市可能无法成功保存。</string>
-    <string name="dialog_insufficientspace_cmdproceed">继续，后果自负</string>
+    <string name="dialog_insufficientspace_title">存储空间好像有点不够用了</string>
+    <string name="dialog_insufficientspace_text">貌似你的设备上没多少剩余存储空间了，只剩%,dMB。由于空间不足，你的城市可能无法成功保存。</string>
+    <string name="dialog_insufficientspace_cmdproceed">继续(后果自负)</string>
     <string name="draft_sydneyoperahouse00_title">悉尼歌剧院</string>
     <string name="draft_sydneyoperahouse00_text">悉尼歌剧院是位于澳大利亚悉尼的多场馆表演艺术中心。它于1973年建成，高度65米。</string>
     <string name="draft_onerafflesplace00_title">莱佛士广场</string>
@@ -1655,7 +1655,7 @@
 
     <string name="dialog_removediamondbuildings_title">移除用钻石购买的建筑物</string>
     <string name="dialog_removediamondbuildings_text">你选择要移除了价值 %d 钻石的建筑物。你确定要不顾代价移除它们吗？ 建造菜单里有移动工具，可以用一用试试。</string>
-    <string name="settings_renderpollution">降低污染的程度</string>
+    <string name="settings_renderpollution">显示污染程度</string>
 
 
     <string name="settings_cloudshadow">显示云影</string>
@@ -1687,7 +1687,7 @@
     <string name="notify_waste_needer00">这栋建筑物没有受到垃圾处理服务</string>
     <string name="notify_waste_producer00">这个填埋场的容量已满，请点击清理！</string>
     <string name="draft_landfill00_text">用来收集所有的垃圾的大量的空间。只能空置时才能移除。</string>
-    <string name="waste_clear">在垃圾上 滑动屏幕 来清理它。</string>
+    <string name="waste_clear">在垃圾进度条上滑动来清理它。</string>
     <string name="waste_cmdclear">立即清理</string>
     <string name="dialog_wasteclear_title">立即清理</string>
     <string name="dialog_wasteclear_text">我们可以为你清除在填埋场的垃圾</string>
@@ -2083,7 +2083,7 @@
     <string name="draft_tollbooth00_title">收费站</string>
     <string name="draft_tollbooth00_text">钱倒是赚了，但是有谁喜欢它呢？</string>
     <string name="notification02_title">是时候做点事情了！</string>
-    <string name="notification02_text">总得有人出来管理一下 %1$s 吧！</string>
+    <string name="notification02_text">该有人出来管管 %1$s 了！</string>
     <string name="notification03_title">莫要忘记 %1$s</string>
     <string name="notification03_text">回来吧，市长。</string>
     <string name="settings_fontscaling">字体大小</string>
@@ -2288,15 +2288,15 @@
     <string name="createregion_merge">合并</string>
     <string name="createregion_hide">去除</string>
     <string name="createregion_show">包含</string>
-    <string name="createcity_sizebigbigbigbig">特别特别大</string>
+    <string name="createcity_sizebigbigbigbig">超级无敌大</string>
     <string name="createregion_layout">输出：</string>
     <string name="createregion_layout2x2">2x2</string>
     <string name="createregion_layoutcircle">圆形</string>
     <string name="dialog_deleteregion_title">删除区域</string>
-    <string name="dialog_deleteregion_text">你确定你要删除这个区域吗？这不能撤回。</string>
+    <string name="dialog_deleteregion_text">你确定你要删除这个区域吗？这个操作不能撤回。</string>
     <string name="dialog_deleteregion_cmd">删除</string>
     <string name="dialog_resetregion_title">重置区域</string>
-    <string name="dialog_resetregion_text">你确定你要重置这个区域吗？这不能撤回。</string>
+    <string name="dialog_resetregion_text">你确定你要重置这个区域吗？这个操作不能撤回。</string>
     <string name="dialog_resetregion_cmd">重置</string>
     <string name="dialog_regionpassword_title">输入区域密码</string>
     <string name="dialog_regionpassword_text">密码：</string>
@@ -2581,7 +2581,7 @@
     <string name="dialog_filesrestart_text">你需要重启游戏来使更改生效。\n\n是否要重启游戏？</string>
     <string name="dialog_filesrestart_cmdrestart">现在重启</string>
     <string name="dialog_filesrestart_cmdlater">稍后重启</string>
-    <string name="settings_multiroaddecosupport">允许多重道路装饰</string>
+    <string name="settings_multiroaddecosupport">允许叠加道路装饰</string>
     <string name="loadcity_uberindicator">·乌托邦</string>
 
 
@@ -2589,7 +2589,7 @@
     <string name="draft_tunnel_management00_text">将修建隧道的钻石费用减免，让收费站创造更多的收入，并使这座城市的道路建设的总体成本更低廉。</string>
     <string name="draft_tunnel_management00_title_premium">路政局</string>
     <string name="draft_tunnel_management00_text_premium">将修建隧道的钻石费用减免，让收费站创造更多的收入，并使这座城市的道路建设的总体成本更低廉。</string>
-    <string name="stage_account_whytoregister">为何要注册</string>
+    <string name="stage_account_whytoregister">为什么要注册</string>
     <string name="stage_account_pro_onlinemode">参与在线模式</string>
     <string name="stage_account_pro_comment">对插件和城市进行评论</string>
     <string name="stage_account_pro_synchronize">同步你的钻石以及已购插件</string>
